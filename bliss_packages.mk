@@ -18,7 +18,41 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    fonts_customization.xml
+    fonts_customization.xml \
+    FontAccuratistOverlay \
+    FontAclonicaOverlay \
+    FontAmaranteOverlay \
+    FontBariolOverlay \
+    FontCagliostroOverlay \
+    FontCoconOverlay \
+    FontComfortaaOverlay \
+    FontComicSansOverlay \
+    FontCookieRunOverlay \
+    FontCoolstoryOverlay \
+    FontExotwoOverlay \
+    FontFifa2018Overlay \
+    FontGrandHotelOverlay \
+    FontHarmonySansOverlay \
+    FontLatoOverlay \
+    FontLinotteOverlay \
+    FontNokiaPureOverlay \
+    FontNothingDotHeadlineOverlay \
+    FontNothingDotOverlay \
+    FontNunitoOverlay \
+    FontOneplusSansOverlay \
+    FontOneplusSlateOverlay \
+    FontOswaldOverlay \
+    FontQuandoOverlay \
+    FontRedressedOverlay \
+    FontReemKufiOverlay \
+    FontRobotoCondensedOverlay \
+    FontRubikOverlay \
+    FontSamsungOneOverlay \
+    FontSansSerifOverlay \
+    FontSonySketchOverlay \
+    FontStoropiaOverlay \
+    FontSurferOverlay \
+    FontUbuntuOverlay
 
 # Udfps
 ifeq ($(TARGET_HAS_UDFPS),true)
