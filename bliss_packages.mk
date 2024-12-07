@@ -53,6 +53,7 @@ PRODUCT_PACKAGES += \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
+    FontRookeryOverlay \
     FontRubikOverlay \
     FontSamsungOneOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
