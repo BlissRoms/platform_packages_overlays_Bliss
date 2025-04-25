@@ -38,6 +38,7 @@ PRODUCT_PACKAGES += \
     FontFifa2018Overlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
+    FontIBMPlexSansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
     FontNokiaPureOverlay \
