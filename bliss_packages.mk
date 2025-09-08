@@ -5,6 +5,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+PRODUCT_PACKAGE_OVERLAYS += packages/overlays/Bliss/overlay/common
+
 # Clocks (SystemUI)
 PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
