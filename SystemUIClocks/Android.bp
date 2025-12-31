@@ -6,7 +6,7 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
+    privileged: true,
 	system_ext_specific: true,
 }
 
@@ -18,19 +18,7 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
-	name: "SystemUIClocks-Flex",
-	owner: "google",
-	apk: "SystemUIClocks-Flex/SystemUIClocks-Flex.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
+    privileged: true,
 	system_ext_specific: true,
 }
 
@@ -42,7 +30,7 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
+    privileged: true,
 	system_ext_specific: true,
 }
 
@@ -54,7 +42,7 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
+    privileged: true,
 	system_ext_specific: true,
 }
 
@@ -66,7 +54,7 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
+    privileged: true,
 	system_ext_specific: true,
 }
 
@@ -78,7 +66,7 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
+    privileged: true,
 	system_ext_specific: true,
 }
 
@@ -90,6 +78,6 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
+    privileged: true,
 	system_ext_specific: true,
 }
